@@ -30,8 +30,8 @@
 > **"Reality is a code. I'm just rewriting the variables."**
 
 ```bash
-# Initializing connection to ISTA_SERVER...
-# Sector: Digital Development (Level 1)
+# Initializing connection to SERVER...
+# Sector: Digital Development 
 # Encryption: AES-256-GCM
 # Operating System: MX Linux / Arch (Root Partition)
 
