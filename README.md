@@ -84,7 +84,7 @@ const amine = {
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amineedahou&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=amineedahou&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="trophies" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3" width="100%" />
