@@ -1,53 +1,120 @@
-# Hi there, I'm Mohamed Amine Dahou 👋
-### 🚀 Digital Development Student & Tech Enthusiast from Morocco
+<div align="center">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=amineedahou&label=Profile%20views&color=0e75b6&style=flat" alt="amineedahou" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=260&section=header&text=Mohamed%20Amine%20Dahou&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Web%20Developer&descAlignY=58&descSize=20" alt="header" />
 
----
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&height=50&lines=Hi+there%2C+I'm+Amine;I+build+fast%2C+interactive+web+apps;React+%7C+Laravel+%7C+Node.js+%7C+Python;Open+source+and+clean+code+enthusiast" alt="Typing SVG" />
+</a>
 
-## 💫 About Me
-- 🎓 **Studying:** Digital Development (1st Year).
-- 💻 **OS Preference:** Proud **Linux Arch** user 🐧 (Love desktop customizing & ricing!).
-- 🌐 **My Portfolio:** Check out my website [here](https://aminedahouportfilio.netlify.app/)
+<br/><br/>
 
----
+<a href="https://aminedahou.runs-on.dev"><img src="https://img.shields.io/badge/Portfolio-38bdf8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://linkedin.com/in/mohamed-amine-dahou-033a7a372"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:mohamedaminedahou.dev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<img src="https://img.shields.io/badge/Open_to-Internship-22c55e?style=for-the-badge" alt="Open to internship" />
 
-## 🛠️ Tech Stack & Tools
-> Here are the languages, frameworks, and tools that I use. They look like colorful badges/emojis!
+<br/><br/>
 
-### 💻 Programming & Web Development
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=amineedahou&label=Profile+Views&color=38bdf8&style=for-the-badge" alt="views" />
+<img src="https://img.shields.io/github/followers/amineedahou?label=Followers&style=for-the-badge&logo=github&color=0f172a&labelColor=38bdf8" alt="followers" />
 
-### 🔧 Tools & Environment
-<p align="left">
-  <img src="https://img.shields.io/badge/Linux_Mint-97C93A?style=for-the-badge&logo=linux-mint&logoColor=white" alt="Linux Mint" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-</p>
+</div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3" width="100%" />
 
-## 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=amineedahou&show_icons=true&theme=radial&hide_border=true" alt="Amine's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amineedahou&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="48%" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=2000&color=38BDF8&center=true&vCenter=true&repeat=false&width=320&height=45&lines=%2F%2F+About+Me" alt="About Me" />
+</div>
 
----
+```js
+const amine = {
+  name: "Mohamed Amine Dahou",
+  role: "Full-Stack Web Developer",
+  location: "Morocco",
+  stack: ["React", "Tailwind CSS", "Laravel", "Node.js", "Python"],
+  currentlyLearning: ["Modern frameworks", "Clean architecture", "Web performance"],
+  openToWork: true,
+  lookingFor: "Pre-hire internship (stage pré-embauche)",
+  motto: "Clean code, fast apps, great UX",
+};
+```
 
-## 📬 Connect with me
-- 🌐 [My Web Portfolio](https://aminedahouportfilio.netlify.app/)
-- 💻 GitHub: [@amineedahou](https://github.com/amineedahou)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3" width="100%" />
 
-<p align="center">
-  <i>"Shadow Exchange!" 🌌 - Leveling up my coding skills day by day.</i>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=2000&color=38BDF8&center=true&vCenter=true&repeat=false&width=460&height=45&lines=%2F%2F+Contribution+Snake" alt="Contribution Snake" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/amineedahou/amineedahou/snake-output/snake.svg" alt="Snake animation" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3" width="100%" />
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=2000&color=38BDF8&center=true&vCenter=true&repeat=false&width=360&height=45&lines=%2F%2F+Tech+Stack" alt="Tech Stack" />
+</div>
+
+<div align="center">
+  <img src="assets/tech-stack.svg" alt="Tech stack: languages, frontend, backend, databases and tools" width="100%" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3" width="100%" />
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=2000&color=38BDF8&center=true&vCenter=true&repeat=false&width=480&height=45&lines=%2F%2F+GitHub+Analytics" alt="GitHub Analytics" />
+</div>
+
+<div align="center">
+
+<img height="185" src="https://github-readme-stats.vercel.app/api?username=amineedahou&show_icons=true&hide_border=true&count_private=true&bg_color=0f172a&title_color=38bdf8&icon_color=3b82f6&text_color=cbd5e1&border_radius=15" alt="stats" />
+<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amineedahou&layout=compact&langs_count=8&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=cbd5e1&border_radius=15" alt="top languages" />
+
+<img src="https://streak-stats.demolab.com?user=amineedahou&hide_border=true&background=0f172a&ring=38bdf8&fire=3b82f6&currStreakLabel=38bdf8&sideLabels=cbd5e1&currStreakNum=ffffff&sideNums=ffffff&dates=94a3b8&border_radius=15" alt="streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amineedahou&bg_color=0f172a&color=38bdf8&line=3b82f6&point=ffffff&area=true&area_color=3b82f6&hide_border=true&custom_title=Contribution%20Activity" alt="activity graph" width="95%" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3" width="100%" />
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=2000&color=38BDF8&center=true&vCenter=true&repeat=false&width=320&height=45&lines=%2F%2F+Trophies" alt="Trophies" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=amineedahou&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="trophies" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3" width="100%" />
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=2000&color=38BDF8&center=true&vCenter=true&repeat=false&width=480&height=45&lines=%2F%2F+Featured+Projects" alt="Featured Projects" />
+</div>
+
+<div align="center">
+
+<a href="https://github.com/amineedahou/REPO_NAME_1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amineedahou&repo=REPO_NAME_1&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=3b82f6&text_color=cbd5e1&border_radius=15" alt="project 1" />
+</a>
+<a href="https://github.com/amineedahou/REPO_NAME_2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amineedahou&repo=REPO_NAME_2&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=3b82f6&text_color=cbd5e1&border_radius=15" alt="project 2" />
+</a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3" width="100%" />
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=2000&color=38BDF8&center=true&vCenter=true&repeat=false&width=420&height=45&lines=%2F%2F+Let's+Connect" alt="Let's Connect" />
+
+<br/>
+
+<a href="https://aminedahou.runs-on.dev"><img src="https://img.shields.io/badge/Portfolio-38bdf8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://linkedin.com/in/mohamed-amine-dahou-033a7a372"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:mohamedaminedahou.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=140&section=footer&animation=twinkling" alt="footer" />
+
+</div>
