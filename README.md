@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=260&section=header&text=%20Amine%20Dahou&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Web%20Developer&descAlignY=58&descSize=20" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=260&section=header&text=Amine%20Dahou&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Web%20Developer&descAlignY=58&descSize=20" alt="header" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&height=50&lines=Hi+there%2C+I'm+Amine;I+build+fast%2C+interactive+web+apps;React+%7C+Laravel+%7C+Node.js+%7C+Python;Open+source+and+clean+code+enthusiast" alt="Typing SVG" />
@@ -67,12 +67,13 @@ const amine = {
 
 <div align="center">
 
-<img height="185" src="https://github-readme-stats.vercel.app/api?username=amineedahou&show_icons=true&hide_border=true&count_private=true&bg_color=0f172a&title_color=38bdf8&icon_color=3b82f6&text_color=cbd5e1&border_radius=15" alt="stats" />
-<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amineedahou&layout=compact&langs_count=8&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=cbd5e1&border_radius=15" alt="top languages" />
+<img src="profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details and contribution activity" width="49%" />
+<img src="profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" width="49%" />
+<img src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per language" width="49%" />
+<img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most commit language" width="49%" />
+<img src="profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive time" width="49%" />
 
-<img src="https://streak-stats.demolab.com?user=amineedahou&hide_border=true&background=0f172a&ring=38bdf8&fire=3b82f6&currStreakLabel=38bdf8&sideLabels=cbd5e1&currStreakNum=ffffff&sideNums=ffffff&dates=94a3b8&border_radius=15" alt="streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amineedahou&bg_color=0f172a&color=38bdf8&line=3b82f6&point=ffffff&area=true&area_color=3b82f6&hide_border=true&custom_title=Contribution%20Activity" alt="activity graph" width="95%" />
+<img src="https://streak-stats.demolab.com?user=amineedahou&hide_border=true&background=1a1b27&ring=38bdf8&fire=3b82f6&currStreakLabel=38bdf8&sideLabels=cbd5e1&currStreakNum=ffffff&sideNums=ffffff&dates=94a3b8&border_radius=15" alt="streak" />
 
 </div>
 
@@ -87,6 +88,10 @@ const amine = {
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3" width="100%" />
+
+<!--
+FEATURED PROJECTS (hidden until you put your real repo names)
+To enable: replace REPO_NAME_1 / REPO_NAME_2 with your repos, then delete the <!-- and --> lines around this section.
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=2000&color=38BDF8&center=true&vCenter=true&repeat=false&width=480&height=45&lines=%2F%2F+Featured+Projects" alt="Featured Projects" />
@@ -104,6 +109,7 @@ const amine = {
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3" width="100%" />
+-->
 
 <div align="center">
 
