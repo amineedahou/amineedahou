@@ -96,7 +96,7 @@ const amine = {
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/amineedahou/contact-manager-react">contact-manager-react</a></h3>
-      <p>No description yet.</p>
+      <p>A modern, full-stack contact management application built with React and Tailwind CSS — designed to make organizing, searching, and…</p>
       <img src="https://img.shields.io/badge/JavaScript-38bdf8?style=flat-square" alt="JavaScript" />
       <br/><br/>
       <a href="https://contact-manager-react-eight.vercel.app"><img src="https://img.shields.io/badge/Live_demo-38bdf8?style=flat-square" alt="Live demo" /></a>
@@ -105,7 +105,7 @@ const amine = {
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/amineedahou/portfolio">portfolio</a></h3>
-      <p>No description yet.</p>
+      <p>Welcome to my professional portfolio! This is a clean, performance-optimized personal website designed to showcase my skills and projects…</p>
       <img src="https://img.shields.io/badge/CSS-38bdf8?style=flat-square" alt="CSS" />
       <br/><br/>
       <a href="https://github.com/amineedahou/portfolio"><img src="https://img.shields.io/badge/Source_code-0f172a?style=flat-square&logo=github" alt="Source code" /></a>
