@@ -92,7 +92,27 @@ const amine = {
 </div>
 
 <!-- START_SECTION:projects -->
-<p align="center"><sub>Latest projects load here after the "Update latest projects" workflow runs.</sub></p>
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/amineedahou/contact-manager-react">contact-manager-react</a></h3>
+      <p>No description yet.</p>
+      <img src="https://img.shields.io/badge/JavaScript-38bdf8?style=flat-square" alt="JavaScript" />
+      <br/><br/>
+      <a href="https://contact-manager-react-eight.vercel.app"><img src="https://img.shields.io/badge/Live_demo-38bdf8?style=flat-square" alt="Live demo" /></a>
+      <a href="https://github.com/amineedahou/contact-manager-react"><img src="https://img.shields.io/badge/Source_code-0f172a?style=flat-square&logo=github" alt="Source code" /></a>
+      <br/><sub>Updated Sep 6, 2026</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/amineedahou/portfolio">portfolio</a></h3>
+      <p>No description yet.</p>
+      <img src="https://img.shields.io/badge/CSS-38bdf8?style=flat-square" alt="CSS" />
+      <br/><br/>
+      <a href="https://github.com/amineedahou/portfolio"><img src="https://img.shields.io/badge/Source_code-0f172a?style=flat-square&logo=github" alt="Source code" /></a>
+      <br/><sub>Updated May 7, 2026</sub>
+    </td>
+  </tr>
+</table>
 <!-- END_SECTION:projects -->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3" width="100%" alt="" />
