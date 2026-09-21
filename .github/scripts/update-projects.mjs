@@ -37,6 +37,74 @@ const shield = (s) => encodeURIComponent(s.replace(/-/g, '--').replace(/_/g, '__
 const fmtDate = (iso) =>
   new Date(iso).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric', timeZone: 'UTC' });
 
+// ---- description fallback: first paragraph of the repo's own README ----
+const strip = (s) =>
+  s.replace(/!\[[^\]]*\]\([^)]*\)/g, '')       // images / badges
+    .replace(/\[([^\]]*)\]\([^)]*\)/g, '$1')   // [text](url) -> text
+    .replace(/<[^>]+>/g, '')                   // html tags
+    .replace(/[`*~]/g, '')                     // code / bold / italic markers
+    .replace(/^>\s?/, '')                      // blockquote marker
+    .replace(/\s+/g, ' ')
+    .trim();
+
+function firstParagraph(md) {
+  const lines = md.replace(/\r/g, '').replace(/<!--[\s\S]*?-->/g, '').split('\n');
+  let inFence = false;
+  let buf = [];
+  const flush = () => {
+    const text = buf.join(' ').replace(/\s+/g, ' ').trim();
+    buf = [];
+    return text.length >= 15 ? text : '';
+  };
+  for (const raw of lines) {
+    const line = raw.trim();
+    if (/^(```|~~~)/.test(line)) {
+      inFence = !inFence;
+      const t = flush();
+      if (t) return t;
+      continue;
+    }
+    if (inFence) continue;
+    const isBreak =
+      !line ||
+      /^#{1,6}\s/.test(line) ||                       // markdown headings
+      /^(={2,}|-{3,}|\*{3,}|_{3,})$/.test(line) ||    // underlines / rules
+      /^([-*+]|\d+\.)\s/.test(line) ||                // list items
+      line.startsWith('|') ||                         // tables
+      /^<h[1-6][\s>]/i.test(line);                    // html headings
+    if (isBreak) {
+      const t = flush();
+      if (t) return t;
+      continue;
+    }
+    if (/^>\s*\[!/.test(line)) continue;              // GitHub alert blocks
+    const text = strip(line);
+    if (text) buf.push(text);
+    else {
+      const t = flush();                              // badge/image-only line
+      if (t) return t;
+    }
+  }
+  return flush();
+}
+
+const clip = (s, n = 140) => (s.length <= n ? s : `${s.slice(0, n).replace(/\s+\S*$/, '')}…`);
+
+async function readmeSummary(name) {
+  try {
+    const r = await fetch(`https://api.github.com/repos/${USER}/${name}/readme`, {
+      headers: { ...headers, Accept: 'application/vnd.github.raw+json' },
+    });
+    if (!r.ok) return '';
+    return clip(firstParagraph(await r.text()));
+  } catch {
+    return '';
+  }
+}
+
+// GitHub "About" description wins; otherwise use the README's first paragraph.
+for (const p of projects) p.summary = p.description || (await readmeSummary(p.name));
+
 function card(r) {
   const badges = [];
   if (r.language) {
@@ -54,7 +122,7 @@ function card(r) {
   return [
     '    <td width="50%" valign="top">',
     `      <h3><a href="${r.html_url}">${esc(r.name)}</a></h3>`,
-    `      <p>${r.description ? esc(r.description) : 'No description yet.'}</p>`,
+    `      <p>${r.summary ? esc(r.summary) : 'No description yet.'}</p>`,
     badges.length ? `      ${badges.join('\n      ')}\n      <br/><br/>` : '',
     `      ${links.join('\n      ')}`,
     `      <br/><sub>Updated ${fmtDate(r.pushed_at)}</sub>`,
