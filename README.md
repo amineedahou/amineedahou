@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=260&section=header&text=Mohamed%20Amine%20Dahou&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Web%20Developer&descAlignY=58&descSize=20" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=260&section=header&text=%20Amine%20Dahou&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Web%20Developer&descAlignY=58&descSize=20" alt="header" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&height=50&lines=Hi+there%2C+I'm+Amine;I+build+fast%2C+interactive+web+apps;React+%7C+Laravel+%7C+Node.js+%7C+Python;Open+source+and+clean+code+enthusiast" alt="Typing SVG" />
