@@ -95,6 +95,14 @@ const amine = {
 <table align="center">
   <tr>
     <td width="50%" valign="top">
+      <h3><a href="https://github.com/amineedahou/portfolio">portfolio</a></h3>
+      <p>A minimalist, performance-focused portfolio site with a dark theme and red glow accents, built to showcase the skills and projects of a…</p>
+      <img src="https://img.shields.io/badge/CSS-38bdf8?style=flat-square" alt="CSS" />
+      <br/><br/>
+      <a href="https://github.com/amineedahou/portfolio"><img src="https://img.shields.io/badge/Source_code-0f172a?style=flat-square&logo=github" alt="Source code" /></a>
+      <br/><sub>Updated Sep 21, 2026</sub>
+    </td>
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/amineedahou/contact-manager-react">contact-manager-react</a></h3>
       <p>A modern, full-stack contact management application built with React and Tailwind CSS — designed to make organizing, searching, and…</p>
       <img src="https://img.shields.io/badge/JavaScript-38bdf8?style=flat-square" alt="JavaScript" />
@@ -102,14 +110,6 @@ const amine = {
       <a href="https://contact-manager-react-eight.vercel.app"><img src="https://img.shields.io/badge/Live_demo-38bdf8?style=flat-square" alt="Live demo" /></a>
       <a href="https://github.com/amineedahou/contact-manager-react"><img src="https://img.shields.io/badge/Source_code-0f172a?style=flat-square&logo=github" alt="Source code" /></a>
       <br/><sub>Updated Sep 6, 2026</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/amineedahou/portfolio">portfolio</a></h3>
-      <p>Welcome to my professional portfolio! This is a clean, performance-optimized personal website designed to showcase my skills and projects…</p>
-      <img src="https://img.shields.io/badge/CSS-38bdf8?style=flat-square" alt="CSS" />
-      <br/><br/>
-      <a href="https://github.com/amineedahou/portfolio"><img src="https://img.shields.io/badge/Source_code-0f172a?style=flat-square&logo=github" alt="Source code" /></a>
-      <br/><sub>Updated May 7, 2026</sub>
     </td>
   </tr>
 </table>
