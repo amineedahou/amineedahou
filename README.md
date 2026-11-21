@@ -1,132 +1,112 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=260&section=header&text=Amine%20Dahou&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Web%20Developer&descAlignY=58&descSize=20" alt="Amine Dahou, Full-Stack Web Developer" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&height=50&lines=Hi+there%2C+I%27m+Amine;I+build+fast%2C+interactive+web+apps;React+%7C+Laravel+%7C+Node.js+%7C+Python;Open+source+and+clean+code+enthusiast" alt="Hi there, I'm Amine" />
-
-<br/><br/>
-
-<a href="https://aminedahou.runs-on.dev"><img src="https://img.shields.io/badge/Portfolio-38bdf8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-<a href="https://linkedin.com/in/mohamed-amine-dahou-033a7a372"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:mohamedaminedahou.dev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<img src="https://img.shields.io/badge/Open_to-Internship-22c55e?style=for-the-badge" alt="Open to internship" />
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=amineedahou&label=Profile+Views&color=38bdf8&style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/amineedahou?label=Followers&style=for-the-badge&logo=github&color=0f172a&labelColor=38bdf8" alt="Followers" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3" width="100%" alt="" />
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=2000&color=38BDF8&center=true&vCenter=true&repeat=false&width=320&height=45&lines=%2F%2F+About+Me" alt="About Me" />
-</div>
-
-```js
-const amine = {
-  name: "Mohamed Amine Dahou",
-  role: "Full-Stack Web Developer",
-  location: "Morocco",
-  stack: ["React", "Tailwind CSS", "Laravel", "Node.js", "Python"],
-  currentlyLearning: ["Modern frameworks", "Clean architecture", "Web performance"],
-  openToWork: true,
-  lookingFor: "Pre-hire internship (stage pré-embauche)",
-  motto: "Clean code, fast apps, great UX",
-};
-```
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3" width="100%" alt="" />
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=2000&color=38BDF8&center=true&vCenter=true&repeat=false&width=460&height=45&lines=%2F%2F+Contribution+Snake" alt="Contribution Snake" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/amineedahou/amineedahou/snake-output/snake.svg" alt="Snake animation" />
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3" width="100%" alt="" />
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=2000&color=38BDF8&center=true&vCenter=true&repeat=false&width=360&height=45&lines=%2F%2F+Tech+Stack" alt="Tech Stack" />
-</div>
-
-<div align="center">
-  <img src="assets/tech-stack.svg" alt="Tech stack: languages, frontend, backend, databases and tools" width="100%" />
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3" width="100%" alt="" />
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=2000&color=38BDF8&center=true&vCenter=true&repeat=false&width=480&height=45&lines=%2F%2F+GitHub+Analytics" alt="GitHub Analytics" />
-</div>
-
-<div align="center">
-
-<img src="profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details and contribution activity" width="49%" />
-<img src="profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" width="49%" />
-<img src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per language" width="49%" />
-<img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most commit language" width="49%" />
-<img src="profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive time" width="49%" />
-
-<img src="https://streak-stats.demolab.com?user=amineedahou&hide_border=true&background=1a1b27&ring=38bdf8&fire=3b82f6&currStreakLabel=38bdf8&sideLabels=cbd5e1&currStreakNum=ffffff&sideNums=ffffff&dates=94a3b8&border_radius=15" alt="GitHub streak" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3" width="100%" alt="" />
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=2000&color=38BDF8&center=true&vCenter=true&repeat=false&width=320&height=45&lines=%2F%2F+Trophies" alt="Trophies" />
-</div>
-
-<div align="center">
-  <img src="https://trophy.ryglcloud.net/?username=amineedahou&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="GitHub trophies" />
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3" width="100%" alt="" />
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=2000&color=38BDF8&center=true&vCenter=true&repeat=false&width=420&height=45&lines=%2F%2F+Latest+Projects" alt="Latest Projects" />
-</div>
-
-<!-- START_SECTION:projects -->
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/amineedahou/portfolio">portfolio</a></h3>
-      <p>A minimalist, performance-focused portfolio site with a dark theme and red glow accents, built to showcase the skills and projects of a…</p>
-      <img src="https://img.shields.io/badge/CSS-38bdf8?style=flat-square" alt="CSS" />
-      <br/><br/>
-      <a href="https://github.com/amineedahou/portfolio"><img src="https://img.shields.io/badge/Source_code-0f172a?style=flat-square&logo=github" alt="Source code" /></a>
-      <br/><sub>Updated Sep 21, 2026</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/amineedahou/contact-manager-react">contact-manager-react</a></h3>
-      <p>A modern, full-stack contact management application built with React and Tailwind CSS — designed to make organizing, searching, and…</p>
-      <img src="https://img.shields.io/badge/JavaScript-38bdf8?style=flat-square" alt="JavaScript" />
-      <br/><br/>
-      <a href="https://contact-manager-react-eight.vercel.app"><img src="https://img.shields.io/badge/Live_demo-38bdf8?style=flat-square" alt="Live demo" /></a>
-      <a href="https://github.com/amineedahou/contact-manager-react"><img src="https://img.shields.io/badge/Source_code-0f172a?style=flat-square&logo=github" alt="Source code" /></a>
-      <br/><sub>Updated Sep 6, 2026</sub>
-    </td>
-  </tr>
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · amineedahou</sub></p>
+<h1>Amine</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>Passionate about web development and continuously improving my skills in frontend and backend.</p>
+<p><strong>● Building and sharing work in public</strong></p>
+<p><sub>Based in Morocco</sub></p>
+<p><a href="https://github.com/amineedahou">GitHub</a> &nbsp;·&nbsp; <a href="https://aminedahouportfilio.netlify.app/">Website</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/185011732?u=5918485372b6b9e4513db0e2c4baf081cbf8a6af&amp;v=4" width="180" alt="Amine GitHub avatar" />
+</td>
+</tr>
 </table>
-<!-- END_SECTION:projects -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3" width="100%" alt="" />
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=2000&color=38BDF8&center=true&vCenter=true&repeat=false&width=420&height=45&lines=%2F%2F+Let%27s+Connect" alt="Let's Connect" />
-
-<br/>
-
-<a href="https://aminedahou.runs-on.dev"><img src="https://img.shields.io/badge/Portfolio-38bdf8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-<a href="https://linkedin.com/in/mohamed-amine-dahou-033a7a372"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:mohamedaminedahou.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=140&section=footer&animation=twinkling" alt="" />
-
 </div>
+
+<h2>What teams can evaluate quickly</h2>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · CSS · JavaScript · HTML</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>3 repositories · 0 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>29 contributions · 5 active days</p></td>
+</tr>
+</table>
+
+<p><sub>Passionate about web development and continuously improving my skills in frontend and backend.</sub></p>
+
+<h2>Proof at a glance</h2>
+
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>3</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>29</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=amineedahou&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F185011732%3Fu%3D5918485372b6b9e4513db0e2c4baf081cbf8a6af%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=amineedahou&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F185011732%3Fu%3D5918485372b6b9e4513db0e2c4baf081cbf8a6af%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Amine GitHub proof metrics" />
+</picture>
+</p>
+
+<h2>Selected work</h2>
+
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=amineedahou&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F185011732%3Fu%3D5918485372b6b9e4513db0e2c4baf081cbf8a6af%26v%3D4&repos=amineedahou%2Fcontact-manager-react%2Camineedahou%2Famineedahou%2Camineedahou%2Fportfolio&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=amineedahou&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F185011732%3Fu%3D5918485372b6b9e4513db0e2c4baf081cbf8a6af%26v%3D4&repos=amineedahou%2Fcontact-manager-react%2Camineedahou%2Famineedahou%2Camineedahou%2Fportfolio&v=recruiter-projects-1&mode=dark" width="100%" alt="Amine selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/amineedahou/contact-manager-react">contact-manager-react</a></h3>
+<p>A selected public project.</p>
+<p><sub>JavaScript · ⭐ 0 · 🍴 0</sub></p>
+<p><a href="https://github.com/amineedahou/contact-manager-react">Read the repository →</a></p>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/amineedahou/amineedahou">amineedahou</a></h3><p>A selected public project.</p><p><sub>Open source · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/amineedahou/portfolio">portfolio</a></h3><p>A selected public project.</p><p><sub>CSS · ⭐ 0</sub></p></td>
+</tr>
+</table>
+
+<h2>Technical toolkit</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=amineedahou&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F185011732%3Fu%3D5918485372b6b9e4513db0e2c4baf081cbf8a6af%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=amineedahou&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F185011732%3Fu%3D5918485372b6b9e4513db0e2c4baf081cbf8a6af%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Amine technology stack" />
+</picture>
+</p>
+
+<table width="100%">
+<tr>
+<td width="33%" align="center"><strong>CSS</strong><br /><sub>40% of public code</sub></td>
+<td width="33%" align="center"><strong>JavaScript</strong><br /><sub>34% of public code</sub></td>
+<td width="33%" align="center"><strong>HTML</strong><br /><sub>26% of public code</sub></td>
+</tr>
+</table>
+
+<h2>Consistency signal</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=amineedahou&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F185011732%3Fu%3D5918485372b6b9e4513db0e2c4baf081cbf8a6af%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=amineedahou&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F185011732%3Fu%3D5918485372b6b9e4513db0e2c4baf081cbf8a6af%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Amine contribution activity" />
+</picture>
+</p>
+
+<hr />
+
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/amineedahou">GitHub</a><br /><a href="https://aminedahouportfilio.netlify.app/">Website</a></td>
+</tr>
+</table>
+
+<p align="center"><sub>Amine · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
